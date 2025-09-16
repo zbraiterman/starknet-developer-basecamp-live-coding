@@ -9,8 +9,8 @@
 
 This repository contains code from the Starknet Developer Basecamp 13, which includes what was covered during sessions 4-6. 
 
-*[A Sample Contract](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/tree/main/packages/snfoundry/contracts/src/counter.cairo) named “CounterContract”
+* [A Sample Contract](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/tree/main/packages/snfoundry/contracts/src/counter.cairo) named “CounterContract”
 
-*[Integration Tests](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/tree/main/packages/snfoundry/contracts/tests) using Starknet Foundry
+* [Integration Tests](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/tree/main/packages/snfoundry/contracts/tests) using Starknet Foundry
 
-*[A User Interface](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/tree/main/packages/nextjs) built using [Scaffold-Stark](https://scaffoldstark.com)
+* [A User Interface](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/tree/main/packages/nextjs) built using [Scaffold-Stark](https://scaffoldstark.com)
