@@ -1,6 +1,6 @@
 # Learning Starknet
 
-![](https://github.com/zbraiterman/starknet-developer-basecamp-live-coding/documentation-and-images)
+![](documentation-and-images/Starknet-developer-basecamp-Zoe-Braiterman.png)
 
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on Starknet blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
